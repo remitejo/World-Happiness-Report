@@ -1,7 +1,7 @@
 <h1>World happiness report</h1>
 Had a look at happiness regarding different factors such as areas
 Linked happiness with terrorism and suicides
-First approach to Apache Hive<br/>
+First approach to Apache Hive<br/><br/>
 Happiness: https://www.kaggle.com/unsdsn/world-happiness#2017.csv<br/>
 Suicide case: https://www.kaggle.com/szamil/who-suicide-statistics<br/>
 Worldwide Terrorism: https://www.kaggle.com/START-UMD/gtd<br/>
